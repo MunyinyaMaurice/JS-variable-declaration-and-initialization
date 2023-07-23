@@ -1,11 +1,13 @@
-const toLowerCase = (s) => {
+export const toLowerCase = (s) => {
   return s.toLowerCase();
 }
 
-const toUpperCase = (s) => {
+export const toUpperCase = (s) => {
   return s.toUpperCase();
 }
 
 export const createSamples = (s) => {
-  return s;
+  const lowerCase= toLowerCase(s);
+  const upperCase = toUpperCase(s);
+  return lowerCase+upperCase;
 }
