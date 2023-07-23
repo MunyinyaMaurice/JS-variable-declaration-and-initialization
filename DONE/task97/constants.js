@@ -1,6 +1,6 @@
 export const users = {
   1: {
-    name: 'Connor'+' '+'shema',
+    name: 'Connor',
   },
   2: {
     name: 'Harry',
