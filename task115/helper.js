@@ -1,0 +1,1 @@
+export const objects = [{teacher:'me',student:'you',security:'they'}];
