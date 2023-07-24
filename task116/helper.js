@@ -1,1 +1,1 @@
-const strings = [];
+export const strings = ['blaise','compaore','magufuri','ndenjyeye ingoma','kayibanda'];
