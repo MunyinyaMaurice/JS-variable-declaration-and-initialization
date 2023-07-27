@@ -16,4 +16,5 @@ const globalPandemic = {
 }
 
 console.log(getLesserEvil(globalWarming, globalPandemic));
+console.log('\n');
 console.log(getLesserEvil(aiThreat, globalPandemic));
