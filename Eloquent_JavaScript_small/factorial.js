@@ -5,4 +5,4 @@ if(n===0){
 return factorial (n-1)*n;
 
 }
-console.log(factorial (8));
+console.log(`The factorial of number ${8} is:`,factorial (8));
